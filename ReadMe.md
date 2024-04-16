@@ -23,8 +23,6 @@
 
 </details>
 
-<br>
-
 ### This project uses the following packages:
 
 [![Python](https://img.shields.io/badge/python-3.12-000?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.java.com/en/)
@@ -33,9 +31,7 @@
 [![Arduino](https://img.shields.io/badge/Ardunio%20Mega-C70D2C?style=for-the-badge&logo=arduino&color=00878F)](https://www.arduino.cc/)
 [![Raspberry Pi 3 B+](https://img.shields.io/badge/Raspberry%20Pi%203-C70D2C?style=for-the-badge&logo=raspberrypi&color=A22846)](https://www.raspberrypi.com/)
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-22.04-000?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/server)
-
-<br>
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-20.04-000?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com/server)
 
 # License
 
